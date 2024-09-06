@@ -1,0 +1,12 @@
+name: TXHousingPricePrediction
+title: TXHousingPricePrediction
+username: cooper-carpenter
+account: cooper-carpenter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12628667
+bundleId: 9070069
+url: https://cooper-carpenter.shinyapps.io/TXHousingPricePrediction/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
